@@ -1,0 +1,8 @@
+# Sobre markdown
+----
+
+Markdown éUma linguagem de marcação leve usada para formatar texto simples com símbolos simples em vez de tags HTML complexas.
+Criado em 2004 por John Gruber e Aaron Swartz.
+Projetado para ser fácil de ler e escrever em texto simples.
+Convertido (analisado) em HTML para que os navegadores da web possam exibi-lo.
+Não é uma linguagem de programação porque não executa nenhuma lógica ou cálculo.
